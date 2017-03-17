@@ -1,0 +1,15 @@
+F:\Study\Wifi小车\MyCar_client\MyCar_client\bin\Debug\MyCar_client.exe.config
+F:\Study\Wifi小车\MyCar_client\MyCar_client\bin\Debug\MyCar_client.exe
+F:\Study\Wifi小车\MyCar_client\MyCar_client\bin\Debug\MyCar_client.pdb
+F:\Study\Wifi小车\MyCar_client\MyCar_client\obj\Debug\MyCar_client.csprojResolveAssemblyReference.cache
+F:\Study\Wifi小车\MyCar_client\MyCar_client\obj\Debug\MyCar_client.Properties.Resources.resources
+F:\Study\Wifi小车\MyCar_client\MyCar_client\obj\Debug\MyCar_client.csproj.GenerateResource.Cache
+F:\Study\Wifi小车\MyCar_client\MyCar_client\obj\Debug\MyCar_client.exe
+F:\Study\Wifi小车\MyCar_client\MyCar_client\obj\Debug\MyCar_client.pdb
+F:\Study\Wifi小车\MyCar_client\MyCar_client\obj\Debug\MyCar_client.Form1.resources
+F:\Study\Wifi小车\MyCar_client\MyCar_client\obj\Debug\Interop.WMPLib.dll
+F:\Study\Wifi小车\MyCar_client\MyCar_client\obj\Debug\AxInterop.WMPLib.dll
+F:\Study\Wifi小车\MyCar_client\MyCar_client\obj\Debug\MyCar_client.csproj.ResolveComReference.cache
+F:\Study\Wifi小车\MyCar_client\MyCar_client\bin\Debug\Interop.WMPLib.dll
+F:\Study\Wifi小车\MyCar_client\MyCar_client\bin\Debug\AxInterop.WMPLib.dll
+F:\Study\Wifi小车\MyCar_client\MyCar_client\obj\Debug\MyCar_client.about.resources
