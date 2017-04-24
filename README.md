@@ -5,4 +5,4 @@
 
 ![](2.jpg)
 
-![](3.gif)
+![](https://static.strawtc.cn/wp-content/uploads/2017/03/3.gif)
